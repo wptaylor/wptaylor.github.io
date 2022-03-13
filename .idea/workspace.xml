@@ -19,6 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="26D3tkW6ECFz6hjF2yXGdym6Hqb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,6 +49,7 @@
       <workItem from="1646944558094" duration="999000" />
       <workItem from="1646950558582" duration="541000" />
       <workItem from="1646953361858" duration="298000" />
+      <workItem from="1647141649939" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1646944653939</created>
